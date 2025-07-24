@@ -6,11 +6,12 @@
    <UUID>73de8147-fa5f-4b68-a337-fdafb1d72fef</UUID>
    <createdEdition>FREE</createdEdition>
    <createdVersion>10.2.4</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>FREE</modifiedEdition>
    <modifiedVersion>10.2.4</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>/Users/narmada/git/Katalon-CI-CD-Integration/Katalon-CI-CD-Integration.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
