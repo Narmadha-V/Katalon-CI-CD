@@ -1,7 +1,23 @@
-
+# Build and output directories
 /bin/
+bin/
+build/
+output/
+Reports/
+.gradle/
+
+# Katalon-specific
 /Libs/
-/.settings/
-/.classpath
+Libs
+
+# Project settings
+.settings/
+.classpath
+.project
+
+# Ignore everything in output except .gitkeep
+!output/.gitkeep
+
+# Version control leftovers
 .svn/
 .cache/
